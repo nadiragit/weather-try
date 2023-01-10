@@ -9,7 +9,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/nadiragit/weather-try"
           target="_blank"
           rel="noopener noreferrer"
         >
